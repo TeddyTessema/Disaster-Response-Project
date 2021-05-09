@@ -53,8 +53,10 @@ def save_data(df, database_filename):
     :param df: input data
     :param database_filename: disaster response
     '''
-    engine = create_engine('sqlite:///disaster_response.db')
-    df.to_sql('disaster_response', engine, index=False)
+    #Save the clean dataset into an sqlite database
+    table_name = 'labeled_messages'
+    engine = create_engine('sqlite:///{}'.format(database_filename))
+    df.to_sql(table_name, engine, index=False, if_exists='replace')
 
 
 def main():
