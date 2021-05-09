@@ -26,6 +26,7 @@ Below are a few screenshots of the web app.
 
 
 Project Components
+
 There are three components you'll need to complete for this project.
 
 1. ETL Pipeline
