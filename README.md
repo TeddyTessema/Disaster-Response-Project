@@ -14,11 +14,11 @@
 
 
 # Project Overview
-On this course, you have discovered and constructed on your facts data engineering talents to extend your possibilities and potential as a data scientist. On this challenge, you may practice these capabilities to investigate catastrophe statistics from discern eight to construct a model for an API that classifies disaster messages.
+On this course, I have discovered and constructed on your facts data engineering talents to extend your possibilities and potential as a data scientist. On this challenge, I may practice these capabilities to investigate disaster data from Figure Eight to construct a model for an API that classifies disaster messages.
 
-Within the assignment workspace, you'll discover a data set containing real messages that have been sent at some point of disaster activities. You'll be developing a system gaining knowledge of pipeline to categorize those activities so that you can send the messages to the best disaster comfort organization.
+Within the assignment workspace, I'll discover a data set containing real messages that have been sent at some point of disaster activities. I'll be developing a system gaining knowledge of pipeline to categorize those activities so that you can send the messages to the best disaster comfort organization.
 
-Your challenge will encompass a web app in which an emergency worker can input a new message and get type effects in numerous categories. The web app may also display visualizations of the data. This challenge will display off your software capabilities, including your potential to create primary facts pipelines and write clean, prepared code!
+My challenge will encompass a web app in which an emergency worker can input a new message and get type effects in numerous categories. The web app may also display visualizations of the data. This challenge will display off your software capabilities, including your potential to create primary facts pipelines and write clean, prepared code!
 
 
 Below are a few screenshots of the web app.
