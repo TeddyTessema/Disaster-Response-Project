@@ -36,7 +36,7 @@ Your challenge will encompass a web app in which an emergency worker can input a
 
 Below are a few screenshots of the web app.
 
-![image](/assets/images/69160473/117769019-06d3b980-b1e8-11eb-9e62-d404fdaf8581.png)
+![image](https://github.com/TeddyTessema/Disaster-Response-Project/blob/main/CDN.md)
 ## Installation
 ------------
 
