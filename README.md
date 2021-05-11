@@ -16,6 +16,7 @@
 
 
 ##  Instructions :
+----------
    1. Run the following commands in the project's root directory to set up your database and model.
 
       - To run ETL pipeline that cleans data and stores in database
@@ -26,7 +27,8 @@
    2.  Run the following command in the app's directory to run your web app.
     `python app/run.py`
 
-##  Description   
+##  Description 
+------------
 On this course, you have discovered and constructed on your facts data engineering talents to extend your possibilities and potential as a data scientist. On this challenge, you may practice these capabilities to investigate disaster data from Figure Eight to construct a model for an API that classifies disaster messages.
 
 Within the assignment workspace, You'll discover a data set containing real messages that have been sent at some point of disaster activities. You'll be developing a system gaining knowledge of pipeline to categorize those activities so that you can send the messages to the best disaster comfort organization.
@@ -37,6 +39,7 @@ Your challenge will encompass a web app in which an emergency worker can input a
 Below are a few screenshots of the web app.
 
 <img width="1440" alt="Screen Shot 2021-05-10 at 11 29 09 PM" src="https://user-images.githubusercontent.com/69160473/117769019-06d3b980-b1e8-11eb-9e62-d404fdaf8581.png">
+
 ## Installation
 ------------
 
@@ -45,7 +48,7 @@ Installation is as easy as
 This project uses [python3.6](https://www.python.org/doc/) . Go check them out if you don't have them locally installed.
 
 ## Project Parts
-
+-------------
 There are three things you will need to complete in this project.
 
   4. 1. ETL pipeline
@@ -82,7 +85,7 @@ Strong texts
 Clean and standard code
 Follow the RUBRIC when working on your project to make sure you meet all the necessary steps to improve plumbing and web application.
 ## License
-
+----------------
 [MIT](LICENSE) © Tewodros Tessema
 
 Acknowledgements
