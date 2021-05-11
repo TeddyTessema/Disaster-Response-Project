@@ -4,13 +4,12 @@ import numpy as np
 from sqlalchemy import create_engine
 
 def load_data(messages_filepath, categories_filepath):
-    """
-    load in message datasets and categories dataset
-    """
-    # load messages datasets
-    messages = pd.read_csv('messages_filepath')
-    # load categories dataset
-    categories = pd.read_csv('categories_filepath')
+    """ load in message_filepath datasets and categories_filepath dataset"""
+
+    # load messages_filepath datasets
+    messages = pd.read_csv(messages_filepath)
+    # load categories_filepath dataset
+    categories = pd.read_csv(categories_filepath)
     
     # merge dataset
     df = messages.merge(categories, how = 'left', on = ['id'])
@@ -37,7 +36,9 @@ def clean_data(df):
     for column in categories:
         categories[column] = categories[column]\
         .astype(str).str.split('-').apply(lambda x:x[1])
-        # convert column string into numerics
+
+        # convert column string into numerics(integers)
+
         categories[column] = categories[column].astype(int)
     # drop the original categories column from `df`
     df = df.drop('categories',axis = 1 )

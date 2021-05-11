@@ -26,9 +26,11 @@ from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.externals import joblib
 
 def load_data(database_filepath):
+    # table name
+    table_name = 'labeled_messages'
     # load data from database
-    engine = create_engine('sqlite:///disaster_response.db')
-    df = pd.read_sql_table('disaster_response', engine)
+    engine = create_engine('sqlite:///{}'.format(database_filepath))
+    df = pd.read_sql_table(table_name, engine)
     X = df['message']
     Y = df.drop(columns= ['id','message', 'original', 'genre'])
     return X, Y, Y.columns
