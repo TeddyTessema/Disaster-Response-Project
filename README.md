@@ -51,7 +51,7 @@ This project uses [python3.6](https://www.python.org/doc/) . Go check them out i
 -------------
 There are three things you will need to complete in this project.
 
-  4. 1. ETL pipeline
+   1. ETL pipeline
 
 In the Python text, process_data.py, write the data cleaner:
 
@@ -60,7 +60,7 @@ It combines two data sets
 Cleans data
 Stores in SQLite database
 
-  4. 2.  Machine Learning pipeline
+   2.  Machine Learning pipeline
 
  Python script, train_classifier.py, write machine learning pipeline:
 
@@ -71,7 +71,7 @@ Stores in SQLite database
     Results results in a test set
     Exporting the last model as a dusty file
 
- 4. 3. Flask Web App
+  3. Flask Web App
 
 We offer you more with a flask web application, but feel free to add other features depending on your flask, html, css and JavaScript. In this section, you will need to:
 
