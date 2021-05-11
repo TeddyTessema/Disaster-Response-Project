@@ -43,9 +43,7 @@ Below are a few screenshots of the web app.
 
 Installation is as easy as 
 
-If you don't have python  installed, you will need that too.
-For instructions on installing python, refer to
-[https://wiki.python.org/moin/BeginnersGuide/Download](https://www.python.org/downloads/).
+This project uses [python](https://www.python.org/doc/) . Go check them out if you don't have them locally installed.
 
 ## Project Parts
 
