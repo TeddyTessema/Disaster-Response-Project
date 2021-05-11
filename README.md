@@ -6,6 +6,9 @@
 - [Description](#Description)
 - [Installation](#installation)
 - [Project Parts](#ProjectParts)
+           - [ETL Pipeline](#ETLPipeline)
+           - [Machine Learning Pipeline](#MachineLearningpipeline)
+           - [Flask](#Flask)
 - [Acknowledgements](#Acknowledgements)
 - [License](#license)
 
