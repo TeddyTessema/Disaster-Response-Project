@@ -66,14 +66,14 @@ Stores in SQLite database
 
   4. 2.  Machine Learning pipeline
 
-Python script, train_classifier.py, write machine learning pipeline:
+ Python script, train_classifier.py, write machine learning pipeline:
 
-Uploading data from SQLite database
-It divides the database into training and testing sets
-Creates text processing and pipeline learning
-Trains also tuned model using GridSearchCV
-Results results in a test set
-Exporting the last model as a dusty file
+    Uploading data from SQLite database
+    It divides the database into training and testing sets
+    Creates text processing and pipeline learning
+    Trains also tuned model using GridSearchCV
+    Results results in a test set
+    Exporting the last model as a dusty file
 
  4. 3. Flask Web App
 
