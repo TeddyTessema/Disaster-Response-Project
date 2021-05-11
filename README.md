@@ -7,7 +7,7 @@
 
    2.  Description
  
-   3.  Library
+   3.  Installation
 
    4.  Project Parts
   
@@ -39,14 +39,11 @@ Below are a few screenshots of the web app.
 
 [](images/disaster-response-project1.png![image](https://user-images.githubusercontent.com/69160473/117585870-9afb2f00-b0c9-11eb-8e92-18eb7e960fd4.png)
 
-Installation
+### 3. Installation
 ------------
 
-Installation is as easy as
+Installation is not required
 
-```bash
-gem install highlight
-```
 
 ### 4.  Project Parts
 
