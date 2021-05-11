@@ -19,7 +19,7 @@
     - To run ML pipeline that trains classifier and saves
         `python model/train_classifier.py data/DisasterResponse.db model/classifier.pkl`
 
-1. 2  Run the following command in the app's directory to run your web app.
+1. 2. Run the following command in the app's directory to run your web app.
     `python app/run.py`
 
 ### 2.  Installation
@@ -41,7 +41,7 @@ Below are a few screenshots of the web app.
 
 There are three things you will need to complete in this project.
 
-  4.1. ETL pipeline
+  4. 1. ETL pipeline
 
 In the Python text, process_data.py, write the data cleaner:
 
@@ -50,7 +50,7 @@ It combines two data sets
 Cleans data
 Stores in SQLite database
 
-  4.2.  Machine Learning pipeline
+  4. 2.  Machine Learning pipeline
 
 Python script, train_classifier.py, write machine learning pipeline:
 
@@ -61,7 +61,7 @@ Trains also tuned model using GridSearchCV
 Results results in a test set
 Exporting the last model as a dusty file
 
- 4.3. Flask Web App
+ 4. 3. Flask Web App
 
 We offer you more with a flask web application, but feel free to add other features depending on your flask, html, css and JavaScript. In this section, you will need to:
 
