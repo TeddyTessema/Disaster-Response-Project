@@ -3,12 +3,15 @@
 ## Content of the Tables
 ```python   
    1.  Instruction
-   2.  Description
-   3.  Library
-   4.  Project Parts
-   5.  Credits
-   6.  License
 ```
+   3.  Description
+ ```
+   5.  Library
+```
+   7.  Project Parts
+   8.  Credits
+   9.  License
+
 
 ### 1. Instructions :
    1. Run the following commands in the project's root directory to set up your database and model.
