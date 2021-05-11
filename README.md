@@ -42,8 +42,11 @@ Below are a few screenshots of the web app.
 ### 3. Installation
 ------------
 
-Installation is not required
+Installation is as easy as 
 
+If you don't have python and pygments installed, you will need that too.
+For instructions on installing pygments, refer to
+[https://wiki.python.org/moin/BeginnersGuide/Download](https://www.python.org/downloads/).
 
 ### 4.  Project Parts
 
