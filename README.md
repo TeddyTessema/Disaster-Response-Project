@@ -1,19 +1,13 @@
 # Disaster Response Pipeline Project
 
-## Content of the Tables
+## Table of Contents
 
-
-   1.  Instruction
-
-   2.  Description
- 
-   3.  Installation
-
-   4.  Project Parts
-  
-   5.  Credits
-   
-   6.  License
+- [Instruction](#Instruction)
+- [Description](#Description)
+- [Installation](#installation)
+- [Project Parts](#Project Parts)
+- [Acknowledgements](#Acknowledgements)
+- [License](#license)
 
 
 ### 1. Instructions :
