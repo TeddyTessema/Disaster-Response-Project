@@ -6,9 +6,9 @@
 - [Description](#Description)
 - [Installation](#installation)
 - [Project Parts](#ProjectParts)
-                  -  [ETL Pipeline](#ETLPipeline)
-                  -  [Machine Learning Pipeline](#MachineLearningpipeline)
-                  -  [Flask](#Flask)
+                 -  [ETL Pipeline](#ETLPipeline)
+                 -  [Machine Learning Pipeline](#MachineLearningpipeline)
+                 -  [Flask](#Flask)
 - [Acknowledgements](#Acknowledgements)
 - [License](#license)
 
@@ -82,6 +82,9 @@ Use of Git and Github
 Strong texts
 Clean and standard code
 Follow the RUBRIC when working on your project to make sure you meet all the necessary steps to improve plumbing and web application.
+## License
+
+[MIT](LICENSE) © Tewodros Tessema
 
 Acknowledgements
 ----------------
