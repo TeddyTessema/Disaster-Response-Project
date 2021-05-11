@@ -86,7 +86,7 @@ Clean and standard code
 Follow the RUBRIC when working on your project to make sure you meet all the necessary steps to improve plumbing and web application.
 ## License
 ----------------
-[MIT](LICENSE) © Tewodros Tessema
+[Udacity](LICENSE) © Tewodros Tessema
 
 Acknowledgements
 ----------------
