@@ -24,7 +24,7 @@
    2.  Run the following command in the app's directory to run your web app.
     `python app/run.py`
 
-### 2.  Installation
+### 2.  Library:
       Pandas
       numpy
       sqlalchemy
