@@ -91,4 +91,6 @@ Follow the RUBRIC when working on your project to make sure you meet all the nec
 Acknowledgements
 ----------------
 
-The actual framework is done by Udacity
+Thanks udacity for letting me use their emblem as favicon for this web app.
+
+Every other weblog post became a first rate motivation to enhance my documentation. This publish discusses some of the cool projects from facts [data scientist nanodegree] students. This genuinely suggests how far we are able to cross if we apply the principles learned beyond the school room content to construct some thing that encourage others.
