@@ -91,6 +91,6 @@ Follow the RUBRIC when working on your project to make sure you meet all the nec
 Acknowledgements
 ----------------
 
-Thanks udacity for letting me use their emblem as favicon for this web app.
+Thanks <a href="https://www.udacity.com" target="_blank">Udacity</a> for letting me use their emblem as favicon for this web app.
 
-Every other weblog post became a first rate motivation to enhance my documentation. This publish discusses some of the cool projects from facts -[data scientist nanodegree](#data scientist nanodegree) students. This genuinely suggests how far we are able to cross if we apply the principles learned beyond the school room content to construct some thing that encourage others.
+Every other weblog post became a first rate motivation to enhance my documentation. This publish discusses some of the cool projects from facts <a href="https://in.udacity.com/course/data-scientist-nanodegree--nd025" target="_blank">Data Scientist Nanodegree</a> students. This genuinely suggests how far we are able to cross if we apply the principles learned beyond the school room content to construct some thing that encourage others.
