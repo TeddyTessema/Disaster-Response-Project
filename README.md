@@ -37,16 +37,16 @@ Below are a few screenshots of the web app.
 [](images/disaster-response-project1.png![image](https://user-images.githubusercontent.com/69160473/117585870-9afb2f00-b0c9-11eb-8e92-18eb7e960fd4.png)
 
 ### 3.  Library:
-   1. Pandas
-   2. numpy
-   3. sqlalchemy
-   4. matplotlib
-   5. plotly
-   6. NLTK
-   7. NLTK [punkt, wordnet, stopwords]
-   8. sklearn
-   9. joblib/pickle
-   10. flask
+    Pandas
+    numpy
+    sqlalchemy
+    matplotlib
+    plotly
+    NLTK
+    NLTK [punkt, wordnet, stopwords]
+    sklearn
+    joblib/pickle
+    flask
 
 ### 4.  Project Parts
 
