@@ -5,7 +5,7 @@
 - [Instruction](#Instruction)
 - [Description](#Description)
 - [Installation](#installation)
-- [Project Parts](#Project Parts)
+- [Project Parts](#ProjectParts)
 - [Acknowledgements](#Acknowledgements)
 - [License](#license)
 
