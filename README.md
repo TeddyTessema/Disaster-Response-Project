@@ -24,18 +24,7 @@
    2.  Run the following command in the app's directory to run your web app.
     `python app/run.py`
 
-### 2.  Library:
-      Pandas
-      numpy
-      sqlalchemy
-      matplotlib
-      plotly
-      NLTK
-      NLTK [punkt, wordnet, stopwords]
-      sklearn
-      joblib/pickle
-      flask
-### 3. Description   
+### 2. Description   
 On this course, you have discovered and constructed on your facts data engineering talents to extend your possibilities and potential as a data scientist. On this challenge, you may practice these capabilities to investigate disaster data from Figure Eight to construct a model for an API that classifies disaster messages.
 
 Within the assignment workspace, You'll discover a data set containing real messages that have been sent at some point of disaster activities. You'll be developing a system gaining knowledge of pipeline to categorize those activities so that you can send the messages to the best disaster comfort organization.
@@ -46,6 +35,18 @@ Your challenge will encompass a web app in which an emergency worker can input a
 Below are a few screenshots of the web app.
 
 [](images/disaster-response-project1.png![image](https://user-images.githubusercontent.com/69160473/117585870-9afb2f00-b0c9-11eb-8e92-18eb7e960fd4.png)
+
+### 3.  Library:
+   Pandas
+   numpy
+   sqlalchemy
+   matplotlib
+   plotly
+   NLTK
+   NLTK [punkt, wordnet, stopwords]
+   sklearn
+   joblib/pickle
+   flask
 
 ### 4.  Project Parts
 
