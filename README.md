@@ -43,7 +43,7 @@ Below are a few screenshots of the web app.
 
 Installation is as easy as 
 
-This project uses [python](https://www.python.org/doc/) . Go check them out if you don't have them locally installed.
+This project uses [python3.6](https://www.python.org/doc/) . Go check them out if you don't have them locally installed.
 
 ## Project Parts
 
