@@ -2,13 +2,15 @@
 
 ## Content of the Tables
 
- 1.  Instruction
+     1.  Instruction
 
- 2.  Installation
+     2.  Installation
 
- 3.  Description
+     3.  Description
 
- 4.  Project Parts
+     4.  Project Parts
+     5.  Credits
+     6.  License
 
 
 ### 1. Instructions :
