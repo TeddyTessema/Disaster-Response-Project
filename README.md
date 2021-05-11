@@ -83,4 +83,7 @@ Strong texts
 Clean and standard code
 Follow the RUBRIC when working on your project to make sure you meet all the necessary steps to improve plumbing and web application.
 
+Acknowledgements
+----------------
 
+The actual highlighting is done by Tewodros Tessema
