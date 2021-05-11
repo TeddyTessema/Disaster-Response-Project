@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-## Content
+## Content of the Tables
 
  1.  Instruction
 
