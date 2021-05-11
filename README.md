@@ -89,4 +89,4 @@ Follow the RUBRIC when working on your project to make sure you meet all the nec
 Acknowledgements
 ----------------
 
-The actual highlighting is done by Tewodros Tessema
+The actual framework is done by Udacity
