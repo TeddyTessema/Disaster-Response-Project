@@ -1,27 +1,31 @@
 # Disaster Response Pipeline Project
 
 ## Content
+
  1.  Instruction
+
  2.  Installation
+
  3.  Description
+
  4.  Project Parts
 
 
-###1. Instructions:
-1. Run the following commands in the project's root directory to set up your database and model.
+1. Instructions :
+ 1.1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
         `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
     - To run ML pipeline that trains classifier and saves
         `python model/train_classifier.py data/DisasterResponse.db model/classifier.pkl`
 
-2. Run the following command in the app's directory to run your web app.
+ 1.2  Run the following command in the app's directory to run your web app.
     `python app/run.py`
 
-###2.  Installation
+2.  Installation
    no installation required
 
-### 3. Description   
+3. Description   
 On this course, you have discovered and constructed on your facts data engineering talents to extend your possibilities and potential as a data scientist. On this challenge, you may practice these capabilities to investigate disaster data from Figure Eight to construct a model for an API that classifies disaster messages.
 
 Within the assignment workspace, You'll discover a data set containing real messages that have been sent at some point of disaster activities. You'll be developing a system gaining knowledge of pipeline to categorize those activities so that you can send the messages to the best disaster comfort organization.
@@ -33,11 +37,11 @@ Below are a few screenshots of the web app.
 
 [](images/disaster-response-project1.png![image](https://user-images.githubusercontent.com/69160473/117585870-9afb2f00-b0c9-11eb-8e92-18eb7e960fd4.png)
 
-####4.  Project Parts
+4.  Project Parts
 
 There are three things you will need to complete in this project.
 
-1. ETL pipe
+4. 1. ETL pipe
 
 In the Python text, process_data.py, write the data cleaner:
 
@@ -46,7 +50,7 @@ It combines two data sets
 Cleans data
 Stores in SQLite database
 
-2. ML pipeline
+4. 2.  Machine Learning pipeline
 
 Python script, train_classifier.py, write machine learning pipeline:
 
@@ -57,7 +61,7 @@ Trains also tuned model using GridSearchCV
 Results results in a test set
 Exporting the last model as a dusty file
 
-3.Flask Web App
+4. 3. Flask Web App
 
 We offer you more with a flask web application, but feel free to add other features depending on your flask, html, css and JavaScript. In this section, you will need to:
 
