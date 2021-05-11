@@ -5,12 +5,14 @@
 - [Instruction](#Instruction)
 - [Description](#Description)
 - [Installation](#installation)
-- [Project Parts](#ProjectParts)
-                -  [ETL Pipeline](#ETLPipeline)
-                -  [Machine Learning Pipeline](#MachineLearningpipeline)
-                -  [Flask](#Flask)
-- [Acknowledgements](#Acknowledgements)
+- [Project Parts](#projectparts)
+	- [ETL Pipeline](#ETLpipeline)	
+	- [Machine Learning Pipeline](#MLpipeline)
+	- [Flask](#flask)
+               
 - [License](#license)
+- [Acknowledgements](#Acknowledgements)
+
 
 
 ##  Instructions :
