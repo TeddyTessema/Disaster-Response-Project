@@ -26,41 +26,42 @@ Below are a few screenshots of the web app.
 
 [](images/disaster-response-project1.png![image](https://user-images.githubusercontent.com/69160473/117585870-9afb2f00-b0c9-11eb-8e92-18eb7e960fd4.png)
 
+#### Project Parts
 
-Project Components
+There are three things you will need to complete in this project.
 
-There are three components you'll need to complete for this project.
+1. ETL pipe
 
-1. ETL Pipeline
+In the Python text, process_data.py, write the data cleaner:
 
-In a Python script, process_data.py, write a data cleaning pipeline that:
+Upload messages and data categories
+It combines two data sets
+Cleans data
+Stores in SQLite database
 
-Loads the messages and categories datasets
-Merges the two datasets
-Cleans the data
-Stores it in a SQLite database
+2. ML pipeline
 
-2. ML Pipeline
+Python script, train_classifier.py, write machine learning pipeline:
 
-In a Python script, train_classifier.py, write a machine learning pipeline that:
+Uploading data from SQLite database
+It divides the database into training and testing sets
+Creates text processing and pipeline learning
+Trains also tuned model using GridSearchCV
+Results results in a test set
+Exporting the last model as a dusty file
 
-Loads data from the SQLite database
-Splits the dataset into training and test sets
-Builds a text processing and machine learning pipeline
-Trains and tunes a model using GridSearchCV
-Outputs results on the test set
-Exports the final model as a pickle file
+3.Flask Web App
 
-3. Flask Web App
+We offer you more with a flask web application, but feel free to add other features depending on your flask, html, css and JavaScript. In this section, you will need to:
 
-We are providing much of the flask web app for you, but feel free to add extra features depending on your knowledge of flask, html, css and javascript. For this part, you'll need to:
-
-Modify file paths for database and model as needed
-Add data visualizations using Plotly in the web app. One example is provided for you
-Github and Code Quality
-Your project will also be graded based on the following:
+Modify data file and model methods as needed
+Enter data visibility using Plotly in a web application. One example is given
+Github quality and code
+Your project will also be categorized based on the following:
 
 Use of Git and Github
-Strong documentation
-Clean and modular code
-Follow the RUBRIC when you work on your project to assure you meet all of the necessary criteria for developing the pipelines and web app.
+Strong texts
+Clean and standard code
+Follow the RUBRIC when working on your project to make sure you meet all the necessary steps to improve plumbing and web application.
+
+
