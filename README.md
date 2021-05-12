@@ -42,6 +42,8 @@ Below are a few screenshots of the web app.
 
 ![header image](Images/Capture.PNG)
 
+![header image](Images/Capture2.PNG)
+
 ## Installation
 ------------
 
