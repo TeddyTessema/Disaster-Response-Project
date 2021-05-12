@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Instruction](#Instruction)
+- [Instructions](#Instructions)
 - [Description](#Description)
 - [Installation](#installation)
 - [Project Parts](#projectparts)
