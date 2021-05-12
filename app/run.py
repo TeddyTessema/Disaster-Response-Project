@@ -2,6 +2,7 @@ import json
 import plotly
 import pandas as pd
 
+import re
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 from sklearn.base import BaseEstimator, TransformerMixin
@@ -47,7 +48,7 @@ engine = create_engine('sqlite:///../data/DisasterResponse.db')
 df = pd.read_sql_table('labeled_messages', engine)
 
 # load model
-model = joblib.load("../models/classifier.pkl")
+model = joblib.load("../model/classifier.pkl")
 
 
 # index webpage displays cool visuals and receives user input text for model
