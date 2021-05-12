@@ -27,6 +27,13 @@ from sklearn.base import BaseEstimator, TransformerMixin
 from sklearn.externals import joblib
 
 def load_data(database_filepath):
+     """
+    Save the  dataset into an sqlite database
+    and reads
+    assign feature variable in X
+    assign target variable in y
+  
+    """
     # table name
     table_name = 'labeled_messages'
     # load data from database
