@@ -1,31 +1,34 @@
 # Disaster Response Pipeline Project
 
-## Content
+## Table of Contents
 
- 1.  Instruction
+- [Instruction](#Instruction)
+- [Description](#Description)
+- [Installation](#installation)
+- [Project Parts](#projectparts)
+	- [ETL Pipeline](#ETLpipeline)	
+	- [Machine Learning Pipeline](#MLpipeline)
+	- [Flask](#flask)
+               
+- [License](#license)
+- [Acknowledgements](#Acknowledgements)
 
- 2.  Installation
-
- 3.  Description
-
- 4.  Project Parts
 
 
-1. Instructions :
- 1.1. Run the following commands in the project's root directory to set up your database and model.
+##  Instructions :
+----------
+   1. Run the following commands in the project's root directory to set up your database and model.
 
-    - To run ETL pipeline that cleans data and stores in database
+      - To run ETL pipeline that cleans data and stores in database
         `python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db`
-    - To run ML pipeline that trains classifier and saves
+      - To run ML pipeline that trains classifier and saves
         `python model/train_classifier.py data/DisasterResponse.db model/classifier.pkl`
 
- 1.2  Run the following command in the app's directory to run your web app.
+   2.  Run the following command in the app's directory to run your web app.
     `python app/run.py`
 
-2.  Installation
-   no installation required
-
-3. Description   
+##  Description 
+------------
 On this course, you have discovered and constructed on your facts data engineering talents to extend your possibilities and potential as a data scientist. On this challenge, you may practice these capabilities to investigate disaster data from Figure Eight to construct a model for an API that classifies disaster messages.
 
 Within the assignment workspace, You'll discover a data set containing real messages that have been sent at some point of disaster activities. You'll be developing a system gaining knowledge of pipeline to categorize those activities so that you can send the messages to the best disaster comfort organization.
@@ -35,13 +38,20 @@ Your challenge will encompass a web app in which an emergency worker can input a
 
 Below are a few screenshots of the web app.
 
-[](images/disaster-response-project1.png![image](https://user-images.githubusercontent.com/69160473/117585870-9afb2f00-b0c9-11eb-8e92-18eb7e960fd4.png)
+<img width="1440" alt="Screen Shot 2021-05-10 at 11 29 09 PM" src="https://user-images.githubusercontent.com/69160473/117769019-06d3b980-b1e8-11eb-9e62-d404fdaf8581.png">
 
-4.  Project Parts
+## Installation
+------------
 
+Installation is as easy as 
+
+This project uses [python3.6](https://www.python.org/doc/) . Go check them out if you don't have them locally installed.
+
+## Project Parts
+-------------
 There are three things you will need to complete in this project.
 
-4. 1. ETL pipe
+   1. ETL pipeline
 
 In the Python text, process_data.py, write the data cleaner:
 
@@ -50,18 +60,18 @@ It combines two data sets
 Cleans data
 Stores in SQLite database
 
-4. 2.  Machine Learning pipeline
+   2.  Machine Learning pipeline
 
-Python script, train_classifier.py, write machine learning pipeline:
+ Python script, train_classifier.py, write machine learning pipeline:
 
-Uploading data from SQLite database
-It divides the database into training and testing sets
-Creates text processing and pipeline learning
-Trains also tuned model using GridSearchCV
-Results results in a test set
-Exporting the last model as a dusty file
+    Uploading data from SQLite database
+    It divides the database into training and testing sets
+    Creates text processing and pipeline learning
+    Trains also tuned model using GridSearchCV
+    Results results in a test set
+    Exporting the last model as a dusty file
 
-4. 3. Flask Web App
+  3. Flask Web App
 
 We offer you more with a flask web application, but feel free to add other features depending on your flask, html, css and JavaScript. In this section, you will need to:
 
@@ -74,5 +84,13 @@ Use of Git and Github
 Strong texts
 Clean and standard code
 Follow the RUBRIC when working on your project to make sure you meet all the necessary steps to improve plumbing and web application.
+## License
+----------------
+[MIT](LICENSE) © Tewodros Tessema
 
+Acknowledgements
+----------------
 
+Thanks <a href="https://www.udacity.com" target="_blank">Udacity</a> for letting me use their emblem as favicon for this web app.
+
+Every other weblog post became a first rate motivation to enhance my documentation. This publish discusses some of the cool projects from facts <a href="https://in.udacity.com/course/data-scientist-nanodegree--nd025" target="_blank">Data Scientist Nanodegree</a> students. This genuinely suggests how far we are able to cross if we apply the principles learned beyond the school room content to construct some thing that encourage others.
